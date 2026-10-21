@@ -1,6 +1,6 @@
 const user = {
     name: "Danil",
-    age: 18
+    age: 19
 };
 
 function greet(user) {
